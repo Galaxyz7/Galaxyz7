@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Galaxyz7.
-- 👀 I’m interested in Networking and Security.
-- 🌱 I’m currently learning Everything.
-- 💞️ I’m looking to collaborate on Automated network and server adminitstration scripts.
+- 👀 I’m interested in Networking, Security, and Coding.
+- 🌱 I’m currently learning JS.
+- 💞️ I’m looking to collaborate on interactive dashboards and threejs.
 - 📫 How to reach me, Email 97992906+Galaxyz7@users.noreply.github.com
 
 <!---
